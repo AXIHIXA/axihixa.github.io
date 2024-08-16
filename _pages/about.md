@@ -12,9 +12,9 @@ Hi! I'm Xi, a Ph.D. student at Department of Computer Science, Stony Brook Unive
 Research
 ======
 
-My research interests lie in the field of Computer Graphics. In my research projects, I'm applying neural techniques on the task of Physics-based modeling, which involves the creation and manipulation of 3D models with Partial Differential Equations (PDEs). These tasks are heavily involved with Numerical Computation and Machine Learning. I'm also working on inverse modeling problems by differentiable neural PDE solvers. 
+My research interests lie in the field of Computer Graphics. In my research projects, I'm applying neural techniques on the task of Physics-based modeling, which involves the creation and manipulation of 3D models with Partial Differential Equations (PDEs). These tasks are heavily involved with Numerical Computation and Machine Learning. I'm also working on inverse modeling problems by developing differentiable neural PDE solvers. 
 
-These research projects endows me with expertise in solid knowledge in Numerical Analysis, rich experience in high-preformance C++/CUDA programming and fine-tuning, and machine learning skills with Python/PyTorch (including CUDA extensions.)
+These research projects endows me with solid knowledge in Numerical Analysis, rich experience in high-preformance C++/CUDA programming and fine-tuning, and expertise in machine learning skills with Python/PyTorch (including customized PyTorch operators and C++/CUDA extensions.)
 
 Teaching
 ======
@@ -24,4 +24,4 @@ I've also worked as Teaching Assistant for the Computer Graphics course offered 
 Misc
 ======
 
-I speak three languages. I'm a native speaker of Chinese (Mandarin). I'm fluent in English (procifient for work and study purposes; TOEFL 114/120, GRE 324/340 + 3.5). I'm also proficient in Japanese (enough for basic work and study senarios; JLPT N1 173/180, N2 169/180). 
+I speak three languages. I'm a native speaker of Chinese (Mandarin). I'm fluent in English (procifient for work and study purposes: TOEFL 114/120; GRE 324/340 + 3.5). I'm also proficient in Japanese (sufficient for basic work and study senarios: JLPT N1 173/180, N2 169/180). 
