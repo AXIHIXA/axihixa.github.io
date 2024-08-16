@@ -3,9 +3,9 @@ title: "UGrid: An Efficient-And-Rigorous Neural Multigrid Solver for Linear PDEs
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'UGrid is a fast-and-rirorous multigrid solver for linear Partial Differential Equations (PDEs).'
-date: 2024-06-25
-venue: 'The Forty-first International Conference on Machine Learning (ICML'2024)'
+excerpt: 'This paper is about fixing template issue #693.'
+date: 2024-02-17
+venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
