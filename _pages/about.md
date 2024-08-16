@@ -19,4 +19,4 @@ These research projects endows me with expertise in solid knowledge in Numerical
 Teaching
 ======
 
-I've also worked as Teaching Assistant for an undergraduate course, [CSE 328 (Fundamentals of Computer Graphics)](https://www3.cs.stonybrook.edu/~xihan1/courses/cse328/ta_help_page.html), and its gradute version, [CSE 528 (Computer Graphics)](https://www3.cs.stonybrook.edu/~xihan1/courses/cse528/ta_help_page.html). 
+I've also worked as Teaching Assistant for the Computer Graphics courses offered at Stony Brook University, including an undergraduate versoin, [CSE 328 (Fundamentals of Computer Graphics)](https://www3.cs.stonybrook.edu/~xihan1/courses/cse328/ta_help_page.html), and a gradute version, [CSE 528 (Computer Graphics)](https://www3.cs.stonybrook.edu/~xihan1/courses/cse528/ta_help_page.html). 
