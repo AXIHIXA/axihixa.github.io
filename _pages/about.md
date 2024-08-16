@@ -20,3 +20,8 @@ Teaching
 ======
 
 I've also worked as Teaching Assistant for the Computer Graphics course offered at Stony Brook University, including an undergraduate version, [CSE 328 (Fundamentals of Computer Graphics)](https://www3.cs.stonybrook.edu/~cse328/index.html), and a graduate version, [CSE 528 (Computer Graphics)](https://www3.cs.stonybrook.edu/~qin/courses/graphics/graphics.html). 
+
+Misc
+======
+
+I speak three languages. I'm a native speaker of Chinese (Mandarin). I'm fluent in English (procifient for work and study purposes; TOEFL 114/120, GRE 324/340 + 3.5). I'm also proficient in Japanese (enough for basic work and study senarios; JLPT N1 173/180, N2 169/180). 
