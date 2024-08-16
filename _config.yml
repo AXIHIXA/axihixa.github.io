@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xi Han"
+title                    : "Xi Han's Personal Website"
 title_separator          : "-"
 name                     : &name "Xi Han"
 description              : &description "Ph.D. Student in Computer Science"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/AXIHIXA"
+  github           : "AXIHIXA"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
