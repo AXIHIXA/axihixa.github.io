@@ -13,4 +13,4 @@ redirect_from:
 If the embedded PDF below does not load, please download the pdf <u><a href="https://axihixa.github.io/files/resume/Resume_XIHAN.pdf">HERE</a></u>.
 <br/>
 
-<!-- <embed src="https://axihixa.github.io/files/resume/Resume_XIHAN.pdf" type="application/pdf" width="100%" /> -->
+<embed src="https://axihixa.github.io/files/resume/Resume_XIHAN.pdf" type="application/pdf" width="100%" />
