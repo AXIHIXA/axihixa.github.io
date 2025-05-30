@@ -12,7 +12,7 @@ Hi! I'm Xi, a Ph.D. student at Department of Computer Science, Stony Brook Unive
 Research
 ======
 
-My research interests lie in the field of Machine Learning (ML), Computer Graphics (CG) and GPU algorithms. In my research projects, I'm applying neural techniques to the task of Physics-based modeling, which involves the creation and manipulation of 3D models with Partial Differential Equations (PDEs), as well as designing efficient and interpretable PDE solvers with ML techniques. I'm also working on Mamba, which is a DE-driven fountation model with various applications in Natural Language Processing (NLP) and Computer Vision (CV). 
+My research interests lie in the field of Machine Learning (ML), Computer Graphics (CG) and GPU Algorithms. In my research projects, I'm applying neural techniques to the task of Physics-based modeling, which involves the creation and manipulation of 3D models with Partial Differential Equations (PDEs), as well as designing efficient and interpretable PDE solvers with ML techniques. I'm also working on Mamba, which is a DE-driven foundation model with various applications in Natural Language Processing (NLP) and Computer Vision (CV). 
 
 These research projects endow me with solid knowledge and rich experience in the design, profiling, and fine-tuning of high-performance GPU kernels, as well as expertise in ML frameworks (including customized PyTorch C++/CUDA extensions.) My research work are published in top-venue conferences including ICML and CVPR. 
 
