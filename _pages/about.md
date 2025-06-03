@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Xi, a Ph.D. student at Department of Computer Science, Stony Brook University, New York, United States. I'm advised by [Professor Hong Qin](https://www3.cs.stonybrook.edu/~qin/). I got my Bachelor's degree (B.E. in Computer Science and Technology) from Tsinghua University, Beijing, China. 
+Hi! I'm Xi, a Ph.D. student at Department of Computer Science, Stony Brook University, New York, United States. I'm advised by [Professor Hong Qin](https://www3.cs.stonybrook.edu/~qin/). I got my Bachelor's degree (B.S. in Computer Science and Technology) from Tsinghua University, Beijing, China. 
 
 Research
 ======
