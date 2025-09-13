@@ -8,7 +8,7 @@ date: 2025-02-01
 location: "Stony Brook, New York, United States"
 ---
 
-CSE 328 is an undergraduate course which covers the basic concepts, mathematical foundations, fundamental theories and algorithms, software techniques, hardware and system issues, and application examples of computer graphics. The main topics will center on modeling, rendering, interaction, and animation. I served as a Teaching Assistant for Spring 2024. 
+CSE 328 is an undergraduate course which covers the basic concepts, mathematical foundations, fundamental theories and algorithms, software techniques, hardware and system issues, and application examples of computer graphics. The main topics will center on modeling, rendering, interaction, and animation. I served as a Teaching Assistant for Spring 2025. 
 
 Apart from regular work as a Teaching Assistant (hosting office hours, grading assignments and exam papers, and hosting in-class recitations of exam results), I'm also offering three tutorials on OpenGL programming with C++/Python each semester. These tutorials are much appreciated by students taking the course. 
 
