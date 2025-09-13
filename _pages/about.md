@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Xi, a Ph.D. student at Department of Computer Science, Stony Brook University, New York, United States. I'm advised by [Professor Hong Qin](https://www3.cs.stonybrook.edu/~qin/). I got my Bachelor's degree (B.S. in Computer Science and Technology) from Tsinghua University, Beijing, China. 
+Hi! I'm Xi Han, a Ph.D. student at Department of Computer Science, Stony Brook University, New York, United States. I'm advised by [Professor Hong Qin](https://www3.cs.stonybrook.edu/~qin/). I got my Bachelor's degree (B.S. in Computer Science and Technology) from Tsinghua University, Beijing, China. 
 
 Research
 ======
 
-My research interests lie in the field of GPU Algorithms, Computer Graphics (CG), and Machine Learning (ML). In my research projects, I apply data-driven techniques to the task of Physics-based modeling, which involves the creation and manipulation of 3D models with Partial Differential Equations (PDEs), and designing efficient and interpretable PDE solvers with ML techniques. I'm also working on Mamba, which is a DE-driven foundation model with various applications in Natural Language Processing (NLP) and Computer Vision (CV). 
+My research interests lie in the field of GPU Algorithms for Computer Graphics (CG) and Machine Learning (ML). In my research projects, I apply data-driven techniques to the task of Physics-based modeling, which involves the creation and manipulation of 3D models with Partial Differential Equations (PDEs), and designing efficient and interpretable PDE solvers with ML techniques. I'm also working on Mamba, which is a DE-driven foundation model with various applications in Natural Language Processing (NLP) and Computer Vision (CV). 
 
 These research projects endow me with solid knowledge and rich experience in the design, profiling, and fine-tuning of high-performance GPU kernels, as well as expertise in ML frameworks (including customized PyTorch C++/CUDA extensions.) My research work are published in top-venue conferences including ICML and CVPR. 
 
