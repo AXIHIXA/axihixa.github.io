@@ -14,7 +14,7 @@ Research
 
 My research interests lie in the field of GPU Algorithms for Computer Graphics (CG) and Machine Learning (ML). In my research projects, I apply data-driven techniques to the task of Physics-based modeling, which involves the creation and manipulation of 3D models with Partial Differential Equations (PDEs), and designing efficient and interpretable PDE solvers with ML techniques. I'm also working on Mamba, which is a DE-driven foundation model with various applications in Natural Language Processing (NLP) and Computer Vision (CV). 
 
-These research projects endow me with solid knowledge and rich experience in the design, profiling, and fine-tuning of high-performance GPU kernels, as well as expertise in ML frameworks (including customized PyTorch C++/CUDA extensions.) My research work are published in top-venue conferences including ICML and CVPR. 
+These research projects endow me with solid knowledge and rich experience in the design, profiling, and fine-tuning of high-performance GPU kernels, as well as expertise in ML frameworks (including customized PyTorch C++/CUDA extensions.) My research work are published in top-venue conferences and journals, including ICML, CVPR, and TMLR. 
 
 Teaching
 ======
@@ -24,7 +24,7 @@ I've also worked as a Teaching Assistant for the Computer Graphics course offere
 Professional Services
 ======
 
-I have reviewed 50+ manuscripts for 20+ conferences/journals/venues. Some are listed as follows:
+I have reviewed 50+ manuscripts for 20+ conferences/journals. Some are listed as follows:
 - AAAI (2026)
 - AISTATS (2025, 2026)
 - ICASSP (2025, 2026)
